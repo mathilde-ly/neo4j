@@ -1,0 +1,11 @@
+id_traitement,nom_traitement,type_traitement
+1,"Chimiothérapie A",Chimiothérapie
+2,"Chimiothérapie B",Chimiothérapie
+3,"Radiothérapie A",Radiothérapie
+4,"Radiothérapie B",Radiothérapie
+5,"Immunothérapie A",Immunothérapie
+6,"Immunothérapie B",Immunothérapie
+7,"Chirurgie oncologique A",Chirurgie
+8,"Chirurgie oncologique B",Chirurgie
+9,"Thérapie ciblée A","Thérapie ciblée"
+10,"Thérapie ciblée B","Thérapie ciblée"

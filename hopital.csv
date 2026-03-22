@@ -1,0 +1,4 @@
+id_hopital,nom,ville,capacite,type
+51,"Hôpital Pitié-Salpêtrière",Paris,1600,Public
+52,"Hôpital Ambroise-Paré",Boulogne-Billancourt,500,Public
+53,"Hôpital Foch",Suresnes,600,Privé

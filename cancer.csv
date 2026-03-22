@@ -1,0 +1,11 @@
+id_cancer,type_cancer,stade
+1,"Cancer du sein",I
+2,"Cancer du sein",II
+3,"Cancer du poumon",III
+4,"Cancer du poumon",IV
+5,Leucémie,I
+6,Leucémie,II
+7,"Cancer colorectal",II
+8,"Cancer colorectal",III
+9,"Cancer de la prostate",II
+10,"Cancer de la prostate",III
